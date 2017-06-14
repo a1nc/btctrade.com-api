@@ -1,3 +1,3 @@
 # btctrade.com api
 
-## Python 实现
+## link[https://www.btctrade.com/api.help.html#open]
