@@ -1,3 +1,4 @@
 # btctrade.com api
 
-## link[btctrade.com api 开发文档](https://www.btctrade.com/api.help.html#open)
+## [btctrade.com api 开发文档](https://www.btctrade.com/api.help.html#open)
+由于官方的文档看起来非常费劲，写得很建议，尝试用Python调通了一遍。
